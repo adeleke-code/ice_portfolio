@@ -1,0 +1,28 @@
+
+
+.darkMode{
+    color:aliceblue;
+    background: #000;
+}
+
+.lightMode{ 
+    color:rgb(6, 6, 6);
+    background: rgb(247, 247, 247);
+}
+
+.btn-dark{
+    background: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+}
+.btn-light{
+    background: rgb(165, 165, 165);
+    color: rgb(42, 42, 42);
+    padding: 10px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+}
