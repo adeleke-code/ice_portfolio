@@ -31,7 +31,7 @@ SECRET_KEY = os.getenv("MYKEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-ALLOWED_HOSTS = ['adeleke.herokuapp.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
