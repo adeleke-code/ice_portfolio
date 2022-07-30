@@ -7,7 +7,7 @@ app_name = 'mysite'
 
 
 urlpatterns = [
-    path("",  views.home, name="home"),
+    path("",  views.home, name="home_page"),
     path("about/",  views.about, name="about_page"),
     path("services/", views.services, name="services"),
     path("acheivements/", views.acheivements, name="acheivements"),
